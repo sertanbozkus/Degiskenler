@@ -27,3 +27,5 @@ Console.WriteLine("Kişinin yaşı -> " + yas2);
 Console.WriteLine($"Kişinin yaşı -> {yas2}");
 
 Console.WriteLine("Kişinin yaşı -> {0} - Adı -> {1} ",yas2,isim);
+
+Console.WriteLine("Eklenen yeni satır.");
