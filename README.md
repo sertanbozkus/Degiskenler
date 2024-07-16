@@ -1,1 +1,1 @@
-# Degiskenler
+Ödev 1 çözümleri - 
